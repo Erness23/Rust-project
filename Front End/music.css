@@ -1,0 +1,65 @@
+/* music.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.music-player {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#current-song {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.controls button {
+    background: #000080;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.controls button:hover {
+    background: #0056b3;
+}
+
+#playlist {
+    margin-top: 20px;
+}
+
+#songs-list {
+    list-style: none;
+    padding: 0;
+}
+
+#songs-list li {
+    padding: 10px;
+    background: #f9f9f9;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+#songs-list li:hover {
+    background: #e0e0e0;
+}

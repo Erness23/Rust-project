@@ -1,0 +1,11 @@
+[package]
+name = "final_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rodio = "0.17"
+rand = "0.8"
+druid = "0.7.0"
+tokio = { version = "1", features = ["full"] }
+walkdir = "2.3"
