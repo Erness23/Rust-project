@@ -18,8 +18,8 @@ Prerequisites
 
 Clone the Repository
 
-git clone https://github.com/your-username/cli-music-player.git
-cd cli-music-player
+git clone git clone https://github.com/Erness23/Rust-project.git
+cd cd Rust-project
 
 Install Dependencies
 
