@@ -18,8 +18,8 @@ Prerequisites
 
 Clone the Repository
 
-git clone git clone https://github.com/Erness23/Rust-project.git
-cd cd Rust-project
+git clone git clone git clone https://github.com/Erness23/Rust-project.git
+cd Rust-project
 
 Install Dependencies
 
